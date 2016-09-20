@@ -1,0 +1,5 @@
+{
+    "name": "mdl-materialsnackbar-typescript",
+    "main": "MDLSnackbarElement.d.ts",
+    "version": "1.0.0"
+}
